@@ -45,6 +45,7 @@ MeiTuan App Write In latest React-Native(0.43)
 3. **Running on iOS:**
 
   ```
+  删除  node_modules/react-native-router-flux/node_modules/react-native   文件夹
   $ react-native run-ios
   ```
 
